@@ -16,7 +16,7 @@
         <dependency>
             <groupId>de.aiarena.community</groupId>
             <artifactId>AMTPClient</artifactId>
-            <version>0.0</version>
+            <version>1.0</version>
         </dependency>
         <dependency>
             <groupId>org.jetbrains.kotlin</groupId>
